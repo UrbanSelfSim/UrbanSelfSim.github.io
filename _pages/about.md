@@ -1,7 +1,7 @@
 ---
-permalink: /
+#permalink: /
 title: "Welcome to the Urban SelfSim"
-excerpt: "About me"
+#excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
