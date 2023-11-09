@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Urban SelfSim"
+title                    : "SelfSim"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
