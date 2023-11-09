@@ -20,4 +20,5 @@ From a technical perspective, SelfSim is implemented in NetLogo, and the simulat
 
 Model Framework of SelfSim 
 ======
+![Model Framework of SelfSim](/images/SelfSim.png)
 SelfSim considers the interactions between several typical urban sub-systems, including transportation, land use, economy, energy, environment, and population. Specifically, it is composed of a set of spatial agent-based models to simulate how urban system evolves over time at the individual level. These include a demographic evolution model, a firmographic model, a joint model of residential location choice and real estate price, a joint model of firm location choice and office building price, a social network evolution model, a land use model, an accessibility model, a transport facility model, a transport energy consumption model, a domestic energy consumption model, and an environmental impact assessment model. Some of the modules in SelfSim are still under development or being improved. 
