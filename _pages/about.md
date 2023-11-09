@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to the Urban SelfSim"
+title: "Welcome to SelfSim"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hello! This is the Urban SelfSim!
+An Agent-based Urban Simulation Model for Exploring the Adoption and Impacts of Low-Carbon Technologies
+![image](https://github.com/UrbanSelfSim/UrbanSelfSim.github.io/assets/149136328/10c8d00c-c874-4e0f-9204-094c4b854892)
 
 Getting started
 ======
