@@ -7,7 +7,7 @@ main:
     #url: /talks/    
 
   - title: "Code"
-    url: https://github.com/UrbanSelfSim/UrbanSelfSim.github.io
+    url: "https://github.com/UrbanSelfSim/UrbanSelfSim.github.io"
     #url: /teaching/    
     
  # - title: "Portfolio"
