@@ -5,6 +5,7 @@ main:
   - title: "Applications"
     sublinks:
       - title: "Beijing"
+      url: "https://zh.wikipedia.org/wiki/%E5%8C%97%E4%BA%AC%E5%B8%82"
 
   - title: "Code"
     url: "https://github.com/UrbanSelfSim/UrbanSelfSim.github.io"
