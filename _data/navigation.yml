@@ -4,9 +4,7 @@ main:
 
   - title: "Applications"
     url: "https://github.com/UrbanSelfSim/UrbanSelfSim.github.io"
-    sublinks:
-      - title: "Beijing"
-      url: "https://github.com/UrbanSelfSim/UrbanSelfSim.github.io"
+   
 
   - title: "Code"
     url: "https://github.com/UrbanSelfSim/UrbanSelfSim.github.io"
