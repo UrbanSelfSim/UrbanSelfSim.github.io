@@ -4,7 +4,23 @@ main:
     #url: /publications/
 
   - title: "Applications"
-    url: /talks/    
+    url: /talks/
+    <nav>
+    <ul>
+        <li><a href="#home">Home</a></li>
+        <li class="dropdown">
+            <a href="javascript:void(0)" class="dropbtn">Applications</a>
+            <div class="dropdown-content">
+                <a href="#app1">Application 1</a>
+                <a href="#app2">Application 2</a>
+                <a href="#app3">Application 3</a>
+            </div>
+        </li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#contact">Contact</a></li>
+    </ul>
+</nav>
+
 
   - title: "Code"
     url: "https://github.com/UrbanSelfSim/UrbanSelfSim.github.io"
