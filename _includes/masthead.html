@@ -13,6 +13,14 @@
               {% else %}
               {% assign domain = base_path %}
             {% endif %}
+          <li class="masthead__menu-item" onmouseover="showDropdown()" onmouseout="hideDropdown()">
+          <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
+          <div class="dropdown-content">
+           <a href="#">Submenu Item 1</a>
+           <a href="#">Submenu Item 2</a>
+           <a href="#">Submenu Item 3</a>
+          </div>
+          </li>
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
         </ul>
@@ -21,3 +29,5 @@
     </div>
   </div>
 </div>
+
+
