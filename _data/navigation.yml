@@ -4,7 +4,7 @@ main:
     #url: /publications/
 
   - title: "Applications"
-    url: /talks/
+    #url: /talks/
     <nav>
     <ul>
         <li><a href="#home">Home</a></li>
