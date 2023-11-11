@@ -16,24 +16,6 @@
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
         </ul>
-        <ul class="visible-links">
-      {% for link in site.data.navigation.main %}
-        {% if link.sublinks %}
-          <li class="masthead__menu-item has-dropdown">
-            <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
-            <ul class="dropdown-content">
-              {% for sublink in link.sublinks %}
-                <li><a href="{{ domain }}{{ sublink.url }}">{{ sublink.title }}</a></li>
-              {% endfor %}
-            </ul>
-          </li>
-        {% else %}
-          <li class="masthead__menu-item">
-            <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
-          </li>
-        {% endif %}
-      {% endfor %}
-    </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
     </div>
