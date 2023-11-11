@@ -1,4 +1,5 @@
 {% include base_path %}
+    
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
@@ -6,6 +7,14 @@
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
+          <li class="masthead__menu-item" id="applications-dropdown">
+            <a href="#">Applications</a>
+            <ul class="dropdown-content">
+              <li><a href="#">Beijing</a></li>
+              <li><a href="#">Other App 1</a></li>
+              <li><a href="#">Other App 2</a></li>
+            </ul>
+          </li>
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
