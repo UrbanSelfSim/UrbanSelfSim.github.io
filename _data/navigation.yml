@@ -1,16 +1,13 @@
 # main links links
 main:
   - title: "Introduction"
-    #url: /publications/
 
   - title: "Applications"
     sublinks:
       - title: "Beijing"
-    #url: /talks/
 
   - title: "Code"
     url: "https://github.com/UrbanSelfSim/UrbanSelfSim.github.io"
-    #url: /teaching/    
     
  # - title: "Portfolio"
  #   url: /portfolio/
