@@ -4,6 +4,8 @@ main:
     #url: /publications/
 
   - title: "Applications"
+    sublinks:
+      - title: "Beijing"
     #url: /talks/
 
   - title: "Code"
