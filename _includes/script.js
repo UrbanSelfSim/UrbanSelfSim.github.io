@@ -1,4 +1,4 @@
-<script>
+
 // 获取应用菜单项
 const applicationsDropdown = document.getElementById('applications-dropdown');
 // 获取应用下拉菜单
@@ -16,4 +16,14 @@ document.addEventListener('click', function(event) {
     dropdownContent.classList.remove('show'); // 隐藏下拉菜单
   }
 });
-</script>
+
+document.addEventListener('DOMContentLoaded', function() {
+  var applicationsDropdown = document.getElementById('applications-dropdown');
+  var dropdownContent = applicationsDropdown.querySelector('.dropdown-content');
+
+  applicationsDropdown.addEventListener('click', function(event) {
+    event.stopPropagation();
+    dropdownContent.classList.toggle('show');
+  });
+});
+
