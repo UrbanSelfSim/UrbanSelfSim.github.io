@@ -51,4 +51,7 @@
     font-weight: 700;
   }
 }
-
+.dropdown-content li {
+  display: block;
+  width: 100%; /* 这里可以是你想要的宽度，使得它们不会占满整个空间 */
+}
