@@ -9,9 +9,9 @@
           <li class="masthead__menu-item has-dropdown" id="applications-dropdown">
             <a href="#">Applications</a>
             <ul class="dropdown-content">
+              <li><a href="#">App 1</a></li>
               <li><a href="#">App 2</a></li>
               <li><a href="#">App 3</a></li>
-              <li><a href="#">App 4</a></li>
             </ul>
           </li>
           <!-- Other menu items -->
@@ -22,22 +22,4 @@
   </div>
 </div>
 
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-    var applicationsDropdown = document.getElementById('applications-dropdown');
-    var dropdownContent = applicationsDropdown.querySelector('.dropdown-content');
-
-    // 事件监听仅在document级别
-    document.addEventListener('click', function(event) {
-      if (event.target !== applicationsDropdown) {
-        dropdownContent.classList.remove('show');
-      }
-    });
-
-    // 这部分代码可以保持不变
-    applicationsDropdown.addEventListener('click', function(event) {
-      dropdownContent.classList.toggle('show');
-    });
-  });
-</script>
 
