@@ -1,62 +1,28 @@
-/* ==========================================================================
-   MASTHEAD
-   ========================================================================== */
+<!DOCTYPE html>
+<html lang="en">
 
-.masthead {
-  position: relative;
-  border-bottom: 1px solid $border-color;
-  -webkit-animation: intro 0.3s both;
-          animation: intro 0.3s both;
-  -webkit-animation-delay: 0.15s;
-          animation-delay: 0.15s;
-  z-index: 20;
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>山羊の前端小窝</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            list-style: none;
+            font-size: 20px;
+            color: #f4f1de;
+        }
 
-  &__inner-wrap {
-    @include container;
-    @include clearfix;
-    padding: 1em 1em 1em;
-    font-family: $sans-serif-narrow;
-
-    @include breakpoint($x-large) {
-      max-width: $x-large;
-    }
-
-    nav {
-      z-index: 10;
-    }
-
-    a {
-      text-decoration: none;
-    }
-  }
-}
-
-.masthead__menu {
-
-  ul {
-    margin: 0;
-    padding: 0;
-    clear: both;
-    list-style-type: none;
-  }
-}
-
-.masthead__menu-item {
-  display: block;
-  list-style-type: none;
-  white-space: normal;
-
-  &--lg {
-    padding-right: 2em;
-    font-weight: 700;
-  }
-}
-.dropdown-content li {
-  display: flex;
-  width: 100%; /* 这里可以是你想要的宽度，使得它们不会占满整个空间 */
-}
-
- .shell{
+        body {
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        background-image:linear-gradient(to right, #a18cd1, #fbc2eb);
+        }
+        .shell{
             display: flex;
             justify-content: center;
         }
@@ -116,3 +82,5 @@
             transform: translate(-20px,-10px);
             height: auto;
         }
+    </style>
+</head>
