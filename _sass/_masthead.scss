@@ -52,6 +52,6 @@
   }
 }
 .dropdown-content li {
-  display: block;
+  display: flex;
   width: 100%; /* 这里可以是你想要的宽度，使得它们不会占满整个空间 */
 }
