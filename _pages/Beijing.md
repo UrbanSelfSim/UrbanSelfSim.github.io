@@ -15,6 +15,7 @@ Based on the simulation, we can obtain:
 
 SelfSim Outputs: Urban Dynamics
 
+
 2) simulation results about how the EVs diffuse over time and across space. To initialize the SelfSim-EV model, we use both traditional survey data (e.g., survey on EV choice behavior), and urban big data (e.g., social media data). 
 
 EVs diffuse over time and across space
