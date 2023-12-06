@@ -12,8 +12,7 @@ main:
     url: /Team/
 
   - title: "Publications"
-  
-  #  url: /Publications/
+    url: /Publications/
    
  # - title: "Portfolio"
  #  url: /portfolio/
