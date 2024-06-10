@@ -3,7 +3,7 @@ main:
   - title: "Introduction"
 
   - title: "Applications"
-    url: /berlin/
+    url: /beijing/
 
   - title: "Code"
     url: "https://github.com/UrbanSelfSim/selfsim_code"
