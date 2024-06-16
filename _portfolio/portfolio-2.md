@@ -12,6 +12,7 @@ The input data included both micro and macro data. Please see below the table fo
 <br/><img src="/images/table.png" width="600" height="360">
 
 **Part 2:Key Results**
+
 Part 2.1: Statistical Results about the Evolution of the Berlin Urban System
 <br/><img src="/images/keyresults.png" width="600" height="360">
 
