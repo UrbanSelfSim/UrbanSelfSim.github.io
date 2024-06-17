@@ -10,7 +10,7 @@ We developed a SelfSim Berlin scenario to simulate how its urban system evolves 
 
 The input data included both micro and macro data. Please see below the table for the key input data and data sources.
 <br/><img src="/images/Input Data.png" width="600" height="360">
-          
+
 **Part 2: Key Results**
 
 Part 2.1: Statistical Results about the Evolution of the Berlin Urban System
