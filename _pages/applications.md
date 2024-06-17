@@ -5,8 +5,6 @@ permalink: /applications/
 author_profile: true
 ---
 
-## [Beijing](Beijing.html)
-Applications in Beijing
+## [Beijing](Beijing.html)Applications in Beijing
 
-## [Berlin](Berlin.md)
-Applications in Berlin
+## [Berlin](Berlin.md)Applications in Berlin
