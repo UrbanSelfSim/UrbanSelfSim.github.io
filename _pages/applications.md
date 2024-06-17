@@ -5,4 +5,4 @@ permalink: /applications/
 author_profile: true
 ---
 
-Beijing[_portfolio/portfolio-1.html]
+[Beijing](_portfolio/portfolio-1.html)
