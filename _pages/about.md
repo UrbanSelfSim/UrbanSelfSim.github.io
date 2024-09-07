@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Welcome to SelfSim"
+title: 
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-An Agent-based Urban Simulation Model for Exploring the Adoption and Impacts of Low-Carbon Technologies
 
 Introduction
 ======
