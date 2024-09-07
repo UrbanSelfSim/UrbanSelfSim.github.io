@@ -81,10 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "SelfSim"
-  avatar           : "selfsim-logo.png"
-
+  avatar           : "selfsim-logo.png"  
+  bio              : "Welcome to selfsim! If you need to contact us, please click Email below!"
   
-  bio              : #"Your biography for the left-hand sidebar"
   location         : "Hong Kong, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
