@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Introduction
-======
 SelfSim treats cities as complex adaptive system, and aims to simulate how urban system evolves over time at the micro level, with a focus on the diffusion and impacts of those low-carbon technologies and services in both the mobility and residential sectors (e.g., electric vehicles and smart heating) 
 
 SelfSim incorporates the classical concept of land use and transport interaction, and the simulation involves several urban sub-systems, including transportation, land use, energy, environment, economy and population systems. 
