@@ -9,15 +9,15 @@ We applied SelfSim to London to simulate the evolution of its urban system from 
 
 **Part 1: Input data**
 
-<br/><img src="/images/London-inpput data.png" width="600" height="360">
+<br/><img src="/images/London-input data.png" width="600" height="360">
 
 **Part 2: Spatial Distribution Results**
 
-Part 2.1: Statistical Results about the Evolution of the Shenzhen Urban System.
+Part 2.1: Statistical Results about the Evolution of the London Urban System.
 <br/><img src="/images/London-Demographic Evolution.png" width="600" height="360">
 
-Part 2.2: Spatial Results about the Evolution of the Shenzhen Urban System.
+Part 2.2: Spatial Results about the Evolution of the London Urban System.
 
 <br/><img src="/images/London-GIF1.gif" width="600" height="360">
 
-<br/><img src="/images/London-GIF2.gif" width="600" height="360">
+<br/><img src="/images/London-GIF2.gif" width="800" height="480">
