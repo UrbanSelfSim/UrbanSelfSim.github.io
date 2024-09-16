@@ -20,4 +20,4 @@ Part 2.2: Spatial Results about the Evolution of the London Urban System.
 
 <br/><img src="/images/London-GIF1.gif" width="600" height="360">
 
-<br/><img src="/images/London-GIF2.gif" width="800" height="480">
+<br/><img src="/images/London-GIF2.gif" width="1000" height="600">
