@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/784d8032-9eb5-4268-95bb-6f1ed653f0e3)---
+---
 title: "New York City"
 excerpt: "Applications in New York City"
 collection: portfolio
