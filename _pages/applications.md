@@ -16,5 +16,8 @@ Applications in Berlin
 ## [London](London.md)
 Applications in London
 
+## [New York City](NewYorkCity.md)
+Applications in New York City
+
 ## [Shenzhen](Shenzhen.md)
 Applications in Shenzhen
