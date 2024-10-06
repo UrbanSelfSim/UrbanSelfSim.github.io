@@ -8,6 +8,6 @@ On Thursday, 29 February 2024, Dr. Chengxiang ZHUGE was invited to deliver a res
 
 Dr. Zhuge presented the idea of exploring interlinked energy use and technology purchase behaviors across travel and residential domains (e.g., choice of car or commuting mode, and adoption of heating or cooling technology or smart devices in homes) based on an agent-based urban simulation model (i.e., SelfSim).
 
-Please see below the poster or the link (https://www.grm.cuhk.edu.hk/cab/dept-seminars/2024/Seminar20240229.pdf) for more details. 
+Please see below the poster or the [link](https://www.grm.cuhk.edu.hk/cab/dept-seminars/2024/Seminar20240229.pdf) for more details. 
 
-<br/><img src="/images/news-1 data.png" width="600" height="360">
+<br/><img src="/images/news-1.png" width="600" height="360">
