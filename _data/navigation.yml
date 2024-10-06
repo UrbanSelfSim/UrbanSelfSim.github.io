@@ -13,6 +13,12 @@ main:
 
   - title: "Publications"
     url: /publications/
+
+  - title: "News"
+    url: /News/
+
+  - title: "Conduct Us"
+    url: /Conduct/
    
  # - title: "Portfolio"
  #  url: /portfolio/
