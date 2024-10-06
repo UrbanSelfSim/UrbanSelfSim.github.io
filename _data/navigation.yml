@@ -15,10 +15,10 @@ main:
     url: /publications/
 
   - title: "News"
-    url: /News/
+ #   url: /News/
 
-  - title: "Conduct Us"
-    url: /Conduct/
+  - title: "Contact Us"
+ #   url: /Contact/
    
  # - title: "Portfolio"
  #  url: /portfolio/
