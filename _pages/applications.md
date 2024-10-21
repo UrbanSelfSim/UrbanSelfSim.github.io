@@ -7,17 +7,17 @@ redirect_from:
   - /resume
 ---
 
-## [Beijing](Beijing.html)
-Applications in Beijing
+[<br/><img src="/images/Beijing.png">](Beijing.html)
 
-## [Berlin](Berlin.md)
-Applications in Berlin
 
-## [London](London.md)
-Applications in London
+[<br/><img src="/images/Beijing.png">](Berlin.md)
 
-## [New York City](NewYorkCity.md)
-Applications in New York City
 
-## [Shenzhen](Shenzhen.md)
-Applications in Shenzhen
+[<br/><img src="/images/Beijing.png">](London.md)
+
+
+[<br/><img src="/images/Beijing.png">](NewYorkCity.md)
+
+
+[<br/><img src="/images/Beijing.png">](Shenzhen.md)
+
