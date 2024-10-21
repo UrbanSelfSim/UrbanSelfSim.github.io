@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-**<font color=Blue>[Talk](news-1.md)</font> Interlinked Low-Carbon Travel and Residential Behaviour: Energy, Climate, Social and  Infrastructural Impacts**(news-1.md)
+**<font color=Blue>[Talk](news-1.md)</font> Interlinked Low-Carbon Travel and Residential Behaviour: Energy, Climate, Social and  Infrastructural Impacts**
 
 *Posted on 29 February 2024*
 
