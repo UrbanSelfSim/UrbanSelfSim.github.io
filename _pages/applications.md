@@ -8,10 +8,9 @@ redirect_from:
 ---
 
 
-[<br/><img src="/images/Beijing.png" width="300" height="180">](Beijing.html)[<br/><img src="/images/Berlin.png" width="300" height="180">](Berlin.md)
+[!<img src="/images/Beijing.png" width="300" height="180">](Beijing.html)[!<img src="/images/Berlin.png" width="300" height="180">](Berlin.md)
 
-
-[<br/><img src="/images/London.png" width="300" height="180">](London.md)[<br/><img src="/images/Newyorkcity.png" width="300" height="180">](NewYorkCity.md)
+[<a href="London.md"><img src="/images/London.png" width="300" height="180"></a>](London.md) [<a href="NewYorkCity.md"><img src="/images/Newyorkcity.png" width="300" height="180"></a>](NewYorkCity.md)
 
 
 [<br/><img src="/images/Shenzhen.png" width="300" height="180">](Shenzhen.md)
