@@ -10,5 +10,5 @@ redirect_from:
 
 [<img src="/images/Beijing.jpg" width="300" height="180">](Beijing.html)[<img src="/images/Berlin.jpg" width="300" height="180">](Berlin.md)[<img src="/images/London.jpg" width="300" height="180">](London.md)
 
-[<img src="/images/Newyorkcity.png" width="300" height="180">](NewYorkCity.md)[<img src="/images/Shenzhen.jpg" width="300" height="180">](Shenzhen.md)
+[<img src="/images/Newyorkcity.jpg" width="300" height="180">](NewYorkCity.md)[<img src="/images/Shenzhen.jpg" width="300" height="180">](Shenzhen.md)
 
