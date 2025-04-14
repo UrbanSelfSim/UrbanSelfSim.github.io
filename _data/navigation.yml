@@ -16,7 +16,7 @@ main:
       - title: "Reports"
         url: /Reports/
       - title: "Papers"
-        url: /Papers/
+        url: /publications/
 
   - title: "News"
     url: /News/
