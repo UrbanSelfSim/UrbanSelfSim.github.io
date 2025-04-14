@@ -122,6 +122,8 @@ navigation:
   enabled: true
   data: main
 
+custom_head: true
+
 # Reading Files
 include:
   - .htaccess
