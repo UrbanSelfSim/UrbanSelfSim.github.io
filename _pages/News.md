@@ -31,7 +31,7 @@ Our SelfSim research group is very glad to inform you that Dr. Chengxiang Zhuge 
 
 On Dec 9, 2024, Songzi ZHOU, a member of the SelfSim research group, participated in the Asian Cartographic Conference (AsiaCarto 2024) held in Hong Kong. During the event, Songzi delivered a research presentation... [Read more](news-3.md)
 
-**<font color=Blue>[Paper]</font> [A MaaS Papper Published in Transportation Research Part A: Policy and Practice](news-5.md)**
+**<font color=Blue>[Paper]</font> [A MaaS Paper Published in Transportation Research Part A: Policy and Practice](news-5.md)**
 
 *Posted on 1 April 2025*
 
