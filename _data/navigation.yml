@@ -14,7 +14,7 @@ main:
   - title: "Publications"
     children:
       - title: "Reports"
-        url: /Reports/
+        url: //
       - title: "Papers"
         url: /publications/
 
