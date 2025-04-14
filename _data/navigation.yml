@@ -12,9 +12,10 @@ main:
     url: /Team/
 
   - title: "Publications"
+    url: "#"
     children:
       - title: "Reports"
-        url: /reports/
+        url: "#"
       - title: "Papers"
         url: /publications/
 
