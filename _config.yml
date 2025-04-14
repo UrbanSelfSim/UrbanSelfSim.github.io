@@ -117,6 +117,10 @@ author:
   youtube          :
   wikipedia        :
 
+# Navigation
+navigation:
+  enabled: true
+  data: main
 
 # Reading Files
 include:
