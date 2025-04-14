@@ -1,5 +1,10 @@
 ---
 layout: page
+title: "Statistics"
+permalink: /statistics/
+
+hide_header: true
+hide_footer: true
 ---
 
 <iframe
