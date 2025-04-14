@@ -12,10 +12,13 @@ Our SelfSim research group is pleased to announce the research paper “Explorin
 
 This research provides valuable insights for MaaS companies, transport planners, policymakers, and other stakeholders involved in shaping the future of shared mobility.
 
-<br/><img src="/images/news-5-1.png">
-Fig. Simulation results: Spatial distribution of MaaS users and subscribers in Beijing.
+<img src="/images/news-5-1.jpg" alt="Spatial distribution" width="600"/>
 
-<br/><img src="/images/news-5-2.png">
-Fig. Simulation results: MaaS pricing scenario (i.e., only one MaaS plan is provided).
+*Fig. Simulation results: Spatial distribution of MaaS users and subscribers in Beijing.*
+
+<img src="/images/news-5-2.jpg" alt="MaaS pricing scenario" width="600"/>
+
+*Fig. Simulation results: MaaS pricing scenario (i.e., only one MaaS plan is provided).*
+
 
 The full paper is available at [link](https://doi.org/10.1016/j.tra.2025.104430).
