@@ -11,4 +11,4 @@ redirect_from:
 
 *Posted on 29 February 2024*
 
-On Thursday, 29 February 2024, Dr. Chengxiang ZHUGE (Tony) was invited to deliver a research seminar in the Department of Geography & Resource Management, The Chinese University of Hong Kong... [Read more](news-1.md)
+On Thursday, 29 February 2024, Dr. Chengxiang ZHUGE was invited to deliver a research seminar in the Department of Geography & Resource Management, The Chinese University of Hong Kong... [Read more](news-1.md)
