@@ -1,4 +1,4 @@
-# main links links
+# main links
 main:
   - title: "Introduction"
 
@@ -14,7 +14,7 @@ main:
   - title: "Publications"
     children:
       - title: "Reports"
-        url: //
+        url: /reports/
       - title: "Papers"
         url: /publications/
 
