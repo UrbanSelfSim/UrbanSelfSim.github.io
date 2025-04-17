@@ -6,38 +6,28 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg">
+            <router-link to="{{ base_path }}/" active-class="active">{{ site.title }}</router-link>
+          </li>
           {% for link in site.data.navigation.main %}
             {% if link.children %}
               <li class="masthead__menu-item dropdown">
-                <a href="{{ link.url }}" class="dropdown-toggle">{{ link.title }}</a>
+                <router-link :to="link.url" active-class="active" exact>{{ link.title }}</router-link>
                 <ul class="dropdown-menu">
                   {% for child in link.children %}
-                    {% assign child_url_clean = child.url | replace: '/$', '' %}
-                    {% assign page_url_clean = page.url | replace: '/$', '' %}
                     <li>
-                      <a href="{{ child.url }}"
-                         {% if child.url contains 'http' %}
-                           target="_blank" rel="noopener"
-                         {% endif %}
-                         {% if page_url_clean contains child_url_clean %}
-                           class="active"
-                         {% endif %}
-                      >{{ child.title }}</a>
+                      <router-link 
+                        :to="child.url" 
+                        active-class="active"
+                        exact
+                      >{{ child.title }}</router-link>
                     </li>
                   {% endfor %}
                 </ul>
               </li>
             {% else %}
               <li class="masthead__menu-item">
-                <a href="{{ link.url }}"
-                   {% if link.url contains 'http' %}
-                     target="_blank" rel="noopener"
-                   {% endif %}
-                   {% if page_url_clean contains link.url %}
-                     class="active"
-                   {% endif %}
-                >{{ link.title }}</a>
+                <router-link :to="link.url" active-class="active" exact>{{ link.title }}</router-link>
               </li>
             {% endif %}
           {% endfor %}
@@ -48,44 +38,59 @@
   </div>
 </div>
 
-.dropdown {
-  position: relative;
-}
-
-.dropdown-menu {
-  display: none;
-  position: absolute;
-  top: 100%;
-  left: 50%;
-  transform: translateX(-50%);
-  background: white;
-  padding: 0.5rem 1rem;
-  list-style: none;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-}
-
-.dropdown:hover .dropdown-menu {
-  display: block;
-}
-
-.dropdown-menu li a {
-  display: block;
-  padding: 0.5rem 1rem;
-  text-decoration: none;
-  color: #333;
-  white-space: nowrap;
-  box-sizing: border-box;
-}
-
-.dropdown-menu a[class~="active"] {
-  font-weight: normal !important;
-  border: none;
-}
-
-@media (hover: none) {
-  /* 触控设备时，添加点击事件来控制下拉菜单 */
-  .dropdown .dropdown-toggle:focus + .dropdown-menu,
-  .dropdown .dropdown-toggle:active + .dropdown-menu {
+<style>
+  /* 隐藏 Greedy‑nav 的备用菜单 */
+  .hidden {
+    display: none !important;
+  }
+  .hidden-links {
+    position: absolute;
+    right: 0;
+    top: 100%;
+    display: none;
+    background: white;
+    list-style: none;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  }
+  .hidden-links.show {
     display: block;
   }
-}
+
+  /* Dropdown 子菜单 */
+  .dropdown {
+    position: relative;
+  }
+  .dropdown-menu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    background: white;
+    padding: 0.5rem 1rem;
+    list-style: none;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  }
+  .dropdown:hover .dropdown-menu {
+    display: block;
+  }
+  .dropdown-menu li {
+    margin: 0;
+  }
+  .dropdown-menu li a,
+  .dropdown-menu li router-link {
+    display: block;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    color: #333;
+    white-space: nowrap;
+    box-sizing: border-box;
+  }
+
+  /* active 高亮样式，只在当前路由下生效 */
+  a.active,
+  router-link.active {
+    font-weight: bold;
+    color: #007ACC;
+  }
+</style>
