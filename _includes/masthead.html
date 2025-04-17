@@ -20,7 +20,7 @@
                          {% if child.url contains 'http' %}
                            target="_blank" rel="noopener"
                          {% endif %}
-                         {% if child_url_clean == page_url_clean %}
+                         {% if page_url_clean contains child_url_clean %}
                            class="active"
                          {% endif %}
                       >{{ child.title }}</a>
@@ -34,6 +34,9 @@
                    {% if link.url contains 'http' %}
                      target="_blank" rel="noopener"
                    {% endif %}
+                   {% if page_url_clean contains link.url %}
+                     class="active"
+                   {% endif %}
                 >{{ link.title }}</a>
               </li>
             {% endif %}
@@ -45,40 +48,44 @@
   </div>
 </div>
 
+.dropdown {
+  position: relative;
+}
 
-<style>
-  .dropdown {
-    position: relative;
-  }
-  
-  .dropdown-menu {
-    display: none;
-    position: absolute;
-    top: 100%;
-    left: 50%;
-    transform: translateX(-50%);
-    background: white;
-    padding: 0.5rem 1rem;
-    list-style: none;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-  }
-  
-  .dropdown:hover .dropdown-menu {
+.dropdown-menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  background: white;
+  padding: 0.5rem 1rem;
+  list-style: none;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.dropdown-menu li a {
+  display: block;
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+  color: #333;
+  white-space: nowrap;
+  box-sizing: border-box;
+}
+
+.dropdown-menu a[class~="active"] {
+  font-weight: normal !important;
+  border: none;
+}
+
+@media (hover: none) {
+  /* 触控设备时，添加点击事件来控制下拉菜单 */
+  .dropdown .dropdown-toggle:focus + .dropdown-menu,
+  .dropdown .dropdown-toggle:active + .dropdown-menu {
     display: block;
   }
-
-  .dropdown-menu li a {
-    display: block;
-    padding: 0.5rem 1rem;
-    text-decoration: none;
-    color: #333;
-    white-space: nowrap;
-    box-sizing: border-box;
-  }
-  
-  .dropdown-menu a[class~="active"] {
-    font-weight: normal !important;
-    border: none;
-  }
-
-</style>
+}
