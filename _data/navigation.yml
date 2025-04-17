@@ -14,16 +14,22 @@ main:
   - title: "Publications"
     url: "#"
     children:
-      - title: "Reports"
-        url: "#"
       - title: "Papers"
         url: /publications/
 
   - title: "News"
     url: /News/
 
-  - title: "Contact Us"
-    url: /Contact/
+  - title: "About"
+    url: "#"
+    children:
+      - title: "Contact Us"
+        url: /Contact/
+      - title: "Statistics"
+      url: /Statistics/
+      - title: "Subscribe"
+        url: /Contact/
+    
    
  # - title: "Portfolio"
  #  url: /portfolio/
