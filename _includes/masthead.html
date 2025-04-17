@@ -6,26 +6,23 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg">
-            <a href="{{ base_path }}/">{{ site.title }}</a>
-          </li>
+          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
           {% for link in site.data.navigation.main %}
             {% if link.children %}
               <li class="masthead__menu-item dropdown">
                 <a href="{{ link.url }}" class="dropdown-toggle">{{ link.title }}</a>
                 <ul class="dropdown-menu">
                   {% for child in link.children %}
-                    {% 
-                      comment 
-                        先把 /index.html 去掉，再去尾斜杠，避免 /foo/ 和 /foo/index.html 识别不一致 
-                      endcomment 
-                    %}
-                    {% assign child_url_clean = child.url | replace: '/index.html','' | replace: '/$','' %}
-                    {% assign page_url_clean  = page.url  | replace: '/index.html','' | replace: '/$','' %}
+                    {% assign child_url_clean = child.url | replace: '/$', '' %}
+                    {% assign page_url_clean = page.url | replace: '/$', '' %}
                     <li>
                       <a href="{{ child.url }}"
-                         {% if child.url contains 'http' %} target="_blank" rel="noopener"{% endif %}
-                         {% if child_url_clean == page_url_clean %}class="active"{% endif %}
+                         {% if child.url contains 'http' %}
+                           target="_blank" rel="noopener"
+                         {% endif %}
+                         {% if child_url_clean == page_url_clean %}
+                           class="active"
+                         {% endif %}
                       >{{ child.title }}</a>
                     </li>
                   {% endfor %}
@@ -34,23 +31,22 @@
             {% else %}
               <li class="masthead__menu-item">
                 <a href="{{ link.url }}"
-                   {% if link.url contains 'http' %} target="_blank" rel="noopener"{% endif %}
+                   {% if link.url contains 'http' %}
+                     target="_blank" rel="noopener"
+                   {% endif %}
                 >{{ link.title }}</a>
               </li>
             {% endif %}
           {% endfor %}
         </ul>
-        <!-- 隐藏 Greedy‑nav 挪出的备用菜单，避免拦截点击 -->
         <ul class="hidden-links hidden"></ul>
       </nav>
     </div>
   </div>
 </div>
 
-<style>
-  /* 强制隐藏 “hidden-links” 避免复制的 <li> 拦截点击 */
-  .hidden { display: none !important; }
 
+<style>
   .dropdown {
     position: relative;
   }
@@ -80,12 +76,9 @@
     box-sizing: border-box;
   }
   
-  /* 去掉之前将 active 设为 normal 的强制规则 */
-  /* .dropdown-menu a[class~="active"] { font-weight: normal !important; } */
-
-  /* 只给真正匹配的链接加粗高亮 */
-  .dropdown-menu a.active {
-    font-weight: bold;
-    /* 如果你想要改变颜色，也可以在这里加 color */
+  .dropdown-menu a[class~="active"] {
+    font-weight: normal !important;
+    border: none;
   }
+
 </style>
