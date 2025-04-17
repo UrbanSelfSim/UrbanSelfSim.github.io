@@ -26,9 +26,9 @@ main:
       - title: "Contact Us"
         url: /Contact/
       - title: "Statistics"
-      url: /Statistics/
+        url: /Statistics/
       - title: "Subscribe"
-        url: /Contact/
+        url: https://forms.office.com/Pages/ResponsePage.aspx?id=1-QJ7A89_06cHnuoBgxUF8K_fLk1QTdKvpAg3M3Y27NUOTNURkcyTk9TVEZNUDJERUY0OVhWUTFPUC4u
     
    
  # - title: "Portfolio"
