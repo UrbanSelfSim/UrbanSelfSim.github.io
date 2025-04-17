@@ -7,64 +7,92 @@ redirect_from:
   - /resume
 ---
 
-<!-- ✅ 原始内容保留 -->
-<p><b>Project Leaders</b></p>
-<img src="/images/leader.png" width="600" height="360">
+<!-- ✅ 页面标题 -->
+<h1>Our Team</h1>
 
-<!-- ✅ Core Members 原图保留，可选择移除 -->
-<!-- <p><b>Core Members</b></p>
-<img src="/images/core.png" width="1200" height="720"> -->
+<!-- ✅ 描述信息 -->
+<p style="max-width: 800px;">
+  The SelfSim is led by <strong>The TIP Research Group</strong> at The Hong Kong Polytechnic University (PolyU),
+  which is an interdisciplinary research group focusing on Technology innovation, Infrastructure planning,
+  and Policy making in Smart Cities.
+</p>
 
-<!-- ✅ 以下为 VitePress 生成的 HTML 内容，手动复制 paste -->
-<div class="team-members">
-  <section>
-    <h2>核心成员</h2>
-    <div class="vp-team">
-      <div class="vp-member">
-        <img class="vp-avatar" src="/avatars/zhangsan.jpg" alt="张三">
-        <div class="vp-name">张三</div>
-        <div class="vp-title">前端工程师</div>
-        <div class="vp-links">
-          <a href="https://github.com/zhangsan" target="_blank">GitHub</a>
-        </div>
-      </div>
-
-      <div class="vp-member">
-        <img class="vp-avatar" src="/avatars/lisi.jpg" alt="李四">
-        <div class="vp-name">李四</div>
-        <div class="vp-title">后端架构师</div>
-      </div>
+<!-- ✅ 替换后的团队成员展示（使用 VitePress 配置渲染结构） -->
+<section>
+  <h2>Project Leaders</h2>
+  <div class="vp-team">
+    <div class="vp-member">
+      <img class="vp-avatar" src="/avatars/zhangsan.jpg" alt="Dr. Chengxiang(Tony) ZHUGE">
+      <div class="vp-name">Dr. Chengxiang(Tony) ZHUGE</div>
+      <div class="vp-title">Assistant Professor</div>
     </div>
-  </section>
-
-  <section>
-    <h2>顾问</h2>
-    <div class="vp-team">
-      <div class="vp-member">
-        <img class="vp-avatar" src="/avatars/wangwu.jpg" alt="王五">
-        <div class="vp-name">王五</div>
-        <div class="vp-title">行业顾问</div>
-      </div>
+    <div class="vp-member">
+      <img class="vp-avatar" src="/avatars/zhangsan.jpg" alt="Prof. Charlie Wilson">
+      <div class="vp-name">Prof. Charlie Wilson</div>
+      <div class="vp-title">Professor</div>
     </div>
-  </section>
-</div>
+  </div>
+</section>
 
-<!-- ✅ 简单样式，可放入站点样式表或页面内 -->
+<section>
+  <h2>Core Members</h2>
+  <div class="vp-team">
+    <div class="vp-member">
+      <img class="vp-avatar" src="/avatars/lisi.jpg" alt="Dr. Xingjun Huang">
+      <div class="vp-name">Dr. Xingjun Huang</div>
+      <div class="vp-title">External Member</div>
+    </div>
+    <div class="vp-member">
+      <img class="vp-avatar" src="/avatars/wangwu.jpg" alt="Junbei Liu">
+      <div class="vp-name">Junbei Liu</div>
+      <div class="vp-title">PhD Student</div>
+    </div>
+    <div class="vp-member">
+      <img class="vp-avatar" src="/avatars/wangwu.jpg" alt="Songzi ZHOU">
+      <div class="vp-name">Songzi ZHOU</div>
+      <div class="vp-title">PhD Student</div>
+    </div>
+    <div class="vp-member">
+      <img class="vp-avatar" src="/avatars/wangwu.jpg" alt="Justin Hayse Chi Wing G.TANG">
+      <div class="vp-name">Justin Hayse Chi Wing G.TANG</div>
+      <div class="vp-title">PhD Student</div>
+    </div>
+    <div class="vp-member">
+      <img class="vp-avatar" src="/avatars/wangwu.jpg" alt="Zhiruo DING">
+      <div class="vp-name">Zhiruo DING</div>
+      <div class="vp-title">Research Assistant</div>
+    </div>
+    <div class="vp-member">
+      <img class="vp-avatar" src="/avatars/wangwu.jpg" alt="Xinyi DENG">
+      <div class="vp-name">Xinyi DENG</div>
+      <div class="vp-title">Research Assistant</div>
+    </div>
+    <div class="vp-member">
+      <img class="vp-avatar" src="/avatars/wangwu.jpg" alt="Peifan LI">
+      <div class="vp-name">Peifan LI</div>
+      <div class="vp-title">Master Student</div>
+    </div>
+    <div class="vp-member">
+      <img class="vp-avatar" src="/avatars/wangwu.jpg" alt="Chenli TANG">
+      <div class="vp-name">Chenli TANG</div>
+      <div class="vp-title">Master Student</div>
+    </div>
+  </div>
+</section>
+
 <style>
-  .team-members {
-    margin-top: 2rem;
-  }
   .vp-team {
     display: flex;
     flex-wrap: wrap;
     gap: 2rem;
+    margin-bottom: 2rem;
   }
   .vp-member {
-    width: 200px;
+    width: 180px;
     text-align: center;
   }
   .vp-avatar {
-    border-radius: 100%;
+    border-radius: 50%;
     width: 120px;
     height: 120px;
     object-fit: cover;
@@ -72,15 +100,10 @@ redirect_from:
   .vp-name {
     font-weight: bold;
     margin-top: 0.5rem;
+    font-size: 1rem;
   }
   .vp-title {
-    font-size: 0.9rem;
+    font-size: 0.85rem;
     color: #555;
   }
-  .vp-links a {
-    font-size: 0.85rem;
-    color: #007acc;
-    text-decoration: none;
-  }
 </style>
-
