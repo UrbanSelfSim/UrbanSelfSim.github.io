@@ -8,10 +8,15 @@ redirect_from:
 ---
 <p>The development of SelfSim has been supported by several research grants, including:</p>  
 
-<p><b>SelfSim Framework and Modules</b></p> 
-<p>Chengxiang Zhuge, Chunfu Shao, Jian Gao, Chunjiao Dong, Hui Zhang. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0198971516300096">Agent-based joint model of residential location choice and real estate price for land use and transport model</a>. Computers, environment and urban systems, 2016, 57: 93-105.</p> 
-<p>Chengxiang Zhuge, Chunfu Shao, Shuling Wang, Ying Hu. <a href="https://www.jstor.org/stable/26622453">An agent-and GIS-based virtual city creator</a>. Journal of Transport and Land Use, 2018, 11(1): 1231-1256.</p> 
-<p>Chengxiang Zhuge, Chunfu Shao. <a href="https://link.springer.com/article/10.1007/s11067-018-9412-3">Agent-based modelling of locating public transport facilities for conventional and electric vehicles</a>. Networks and Spatial Economics, 2018, 18: 875-908.</p> 
-<p>Chengxiang Zhuge, Chunfu Shao, Binru Wei. <a href="https://www.sciencedirect.com/science/article/abs/pii/S1877750318300103">An agent-based spatial urban social network generator: A case study of Beijing, China</a>. Journal of computational science, 2018, 29: 46-58.</p> 
-<p>Chengxiang Zhuge, Chunfu Shao. <a href="https://www.tandfonline.com/doi/10.1080/21680566.2019.1589599">Agent-based modelling of office market for a land use and transport model</a>. Transportmetrica B: Transport Dynamics, 2019, 7(1): 1232–1257.</p> 
-<p>Chengxiang Zhuge, Chunyan Wang. <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361920920308634">Integrated modelling of autonomous electric vehicle diffusion: From review to conceptual design</a>. Transportation research part D: transport and environment, 2021, 91: 102679.</p> 
+<p>Evolutionary Mechanism and Impact Assessment of Hydrogen Fuel Cell Vehicle Market. Funded by Shenzhen Municipal Science and Technology Innovation Commission. Period: 2023 - 2026. PI: Dr. Chengxiang (Tony) ZHUGE</p> 
+<p>Interlinked Low-Carbon Travel and Residential Behaviour: Energy, Climate, Social and Infrastructural Impacts. Funded by The Hong Kong Polytechnic University. Period: 2022-2025. PI: Dr. Chengxiang (Tony) ZHUGE</p> 
+<p>Saving Water and Energy in the Residential Sector: Behavioural Adaptation and Technology Adoption. Funded by The Hong Kong Polytechnic University. Period: 2023-2025. PI: Dr. Chengxiang (Tony) ZHUGE</p> 
+<p>The Impacts of Digitalised Daily Life on Climate Change (iDODDLE). Funded by the European Research Council (ERC). Period: 2021-2025. PI: Prof Charlie WILSON.</p> 
+<p>Analysis and Modelling of Users’ Willingness to Use the Vehicle-to-Grid Technology. Funded by the National Natural Science Foundation of China (NSFC). Period: 2021-2023. PI: Dr. Chengxiang (Tony) ZHUGE</p> 
+<p>Social Influence and Disruptive Low Carbon Innovations (SILCI). Funded by the European Research Council (ERC). Period: 2016-2021. PI: Prof Charlie WILSON.</p> 
+
+<p>
+  <img src="{{ '/images/funding.jpg' | relative_url }}"
+       alt="funding"
+       style="max-width:300px; display:block; margin:1em 0;" />
+</p>
