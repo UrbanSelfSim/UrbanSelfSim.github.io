@@ -22,6 +22,8 @@ main:
   - title: "About"
     url: "#"
     children:
+      - title: "Acknowledgement"
+        url: /acknowledgement/
       - title: "Contact Us"
         url: /Contact/
       - title: "Statistics"
