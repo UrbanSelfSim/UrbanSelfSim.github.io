@@ -11,4 +11,4 @@ Dr. Zhuge presented the idea of exploring interlinked energy use and technology 
 
 Please see below the poster or the [link](https://www.grm.cuhk.edu.hk/cab/dept-seminars/2024/Seminar20240229.pdf) for more details. 
 <br/><img src="/images/news-1.png">
-> _Fig. Research Seminar Poster_
+> _Fig. Research seminar poster_
