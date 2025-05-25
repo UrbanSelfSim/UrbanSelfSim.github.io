@@ -15,11 +15,11 @@ This research provides valuable insights for MaaS companies, transport planners,
 
 <img src="/images/news-5-1.jpg" alt="Spatial distribution" width="600"/>
 
-> _Fig. Simulation results: Spatial distribution of MaaS users and subscribers in Beijing._
+> _Fig. Simulation results: Spatial distribution of MaaS users and subscribers in Beijing_
 
 <img src="/images/news-5-2.jpg" alt="MaaS pricing scenario" width="600"/>
 
-> _Fig. Simulation results: MaaS pricing scenario (i.e., only one MaaS plan is provided)._
+> _Fig. Simulation results: MaaS pricing scenario (i.e., only one MaaS plan is provided)_
 
 
 The full paper is available at [link](https://doi.org/10.1016/j.tra.2025.104430).
