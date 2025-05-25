@@ -3,6 +3,7 @@ title: "A MaaS Paper Published in Transportation Research Part A: Policy and Pra
 excerpt: 
 collection: paper
 ---
+> _Posted on 1 April 2025 by Songzi ZHOU_
 
 Our SelfSim research group is pleased to announce the research paper “Exploring the potential adoption of Mobility-as-a-Service in Beijing: A spatial agent-based model” has been published in Transportation Research Part A: Policy and Practice in April 2025! This study developed a spatial agent-based model to simulate the adoption and subscription of Mobility-as-a-Service (MaaS) in Beijing. The model included four MaaS plans, including pay-as-you-go, monthly, season, and yearly subscriptions. Several key findings include:
 1. Approximately 79.6% of respondents expressed interest in MaaS, despite 39.1% being unfamiliar with the concept.
