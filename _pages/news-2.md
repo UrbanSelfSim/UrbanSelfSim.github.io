@@ -10,4 +10,4 @@ On May 19, 2024, Junbei LIU, a member of the SelfSim research group, participate
 The presentation introduced an agent-based urban microsimulation model, SelfSim, outlining its framework and the types of input data required. It also showcased SelfSim’s applications in five cities (i.e., Beijing, Shenzhen, London, New York, and Berlin) using open-source datasets.
 
 <br/><img src="/images/news-2.png">
-> _Fig. Screenshot of the official website of the 9th Youth Geoscience Forum_
+> _Screenshot of the official website of the 9th Youth Geoscience Forum_
