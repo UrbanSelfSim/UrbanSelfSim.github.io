@@ -10,4 +10,4 @@ On Dec 9, 2024, Songzi ZHOU, a member of the SelfSim research group, participate
 The presentation outlined a data-driven joint model that represents human activities and travel behavior in large-scale transportation networks, and presented a framework for evaluating the accessibility-based equity of activity facilities, using New York City as the case study.
 
 <br/><img src="/images/news-3.png">
-> _Fig. Screenshot of the official website of the Asian Cartographic Conference (AsiaCarto 2024)_
+> _Screenshot of the official website of the Asian Cartographic Conference (AsiaCarto 2024)_
