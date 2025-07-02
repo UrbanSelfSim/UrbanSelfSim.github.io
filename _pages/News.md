@@ -7,6 +7,12 @@ redirect_from:
   - /resume
 ---
 
+**<font color=Blue>[Conference]</font> [Transportation Research Symposium (TRSS) 2025, Rotterdam, the Netherlands](news-6.md)**
+
+*Posted on 1 July 2025*
+
+Our SelfSIM research group is pleased to announce that our team member Justin Hayse Chiwing G. TANG presented a paper titled “Exploring the potential joint adoption of vehicle automation and electrification technologies with a spatial agent-based model” at... [Read more](news-6.md)
+
 **<font color=Blue>[Paper]</font> [A MaaS Paper Published in Transportation Research Part A: Policy and Practice](news-5.md)**
 
 *Posted on 1 April 2025*
