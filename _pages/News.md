@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/2f81ba63-73e6-4206-a3f9-7d689f2acc84)---
 layout: archive
 title: "News"
 permalink: /News/
@@ -6,6 +6,11 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+**<font color=Blue>[Conference]</font> [Conference Presentations at UCRN and IACP 2025](news-7.md)**
+
+*Posted on 8 July 2025*
+
+Our SelfSIM research group is pleased to report that team member ZHANG Ying gave a presentation titled “Agent-Based Life-Cycle Assessment of Hydrogen Fuel Cell Vehicle Adoption and Greenhouse Gas Impacts in Urban Dynamics” at two major conferences... [Read more](news-7.md)
 
 **<font color=Blue>[Conference]</font> [Transportation Research Symposium (TRSS) 2025, Rotterdam, the Netherlands](news-6.md)**
 
