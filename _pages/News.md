@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2f81ba63-73e6-4206-a3f9-7d689f2acc84)---
+---
 layout: archive
 title: "News"
 permalink: /News/
