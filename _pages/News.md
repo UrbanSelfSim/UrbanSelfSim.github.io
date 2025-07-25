@@ -6,6 +6,12 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+**<font color=Blue>[Conference]</font> [Conference Presentations on CICTP 2025](news-8.md)**
+
+*Posted on 25 July 2025*
+
+Dr. Chengxiang (Tony) Zhuge, PI of the SelfSim project, was invited to give a presentation on The 25th COTA International Conference of Transportation Professionals (CICTP 2025), which was held in Guangzhou, China from 22 to 25 July 2025... [Read more](news-8.md)
+
 **<font color=Blue>[Conference]</font> [Conference Presentations at UCRN and IACP 2025](news-7.md)**
 
 *Posted on 8 July 2025*
