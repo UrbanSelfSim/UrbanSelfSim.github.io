@@ -1,4 +1,4 @@
----
+<img width="432" height="14" alt="image" src="https://github.com/user-attachments/assets/fdecf7c1-b06e-4605-8f3c-44f4c23c597c" />---
 layout: archive
 title: "News"
 permalink: /News/
@@ -6,6 +6,12 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+**<font color=Blue>[Grant]</font> [A MaaS Proposal Funded by MTR Research Funding Scheme 2025](news-9.md)**
+
+*Posted on 16 August 2025*
+
+A three-year MaaS Project led by Dr. Tony ZHUGE (PI of this SelfSim Project) was recently funded by the MTR Research Funding Scheme 2025 (see https://www.mtracademy.com/script/en/research/index.aspx)... [Read more](news-9.md)
+
 **<font color=Blue>[Conference]</font> [Conference Presentations on CICTP 2025](news-8.md)**
 
 *Posted on 25 July 2025*
