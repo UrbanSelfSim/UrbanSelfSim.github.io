@@ -8,6 +8,9 @@ redirect_from:
 ---
 The development of SelfSim has been supported by several research grants, including:
 
+- **MTR-centric Mobility as a Service (MaaS-MTR) for the intercity-intracity integrated travel in the greater bay area: Travellers'behavioural adaption and sustainability impact assessment.**  
+  Funded by MTR Research Funding Scheme 2025. Period: 2025 - 2028. PI: Dr. Chengxiang (Tony) ZHUGE
+
 - **Evolutionary Mechanism and Impact Assessment of Hydrogen Fuel Cell Vehicle Market.**  
   Funded by Shenzhen Municipal Science and Technology Innovation Commission. Period: 2023 - 2026. PI: Dr. Chengxiang (Tony) ZHUGE
 
