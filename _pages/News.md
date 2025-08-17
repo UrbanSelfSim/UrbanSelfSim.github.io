@@ -1,4 +1,4 @@
----
+<img width="432" height="14" alt="image" src="https://github.com/user-attachments/assets/3a79eb9f-fdce-46c8-8218-7fcccf3dc5c2" />---
 layout: archive
 title: "News"
 permalink: /News/
@@ -6,6 +6,12 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+**<font color=Blue>[Conference]</font> [Conference Presentation at ICUI & GSCS 2025](news-10.md)**
+
+*Posted on 17 August 2025*
+
+We are pleased to announce that our research group members, Ying ZHANG and Justin Hayse Chiwing Tang G. TANG, from the SelfSim Research Group, presented their research work at the Global Smart Cities Summit (GSCS 2025) ... [Read more](news-10.md)
+
 **<font color=Blue>[Grant]</font> [A MaaS Proposal Funded by MTR Research Funding Scheme 2025](news-9.md)**
 
 *Posted on 16 August 2025*
