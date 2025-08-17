@@ -11,6 +11,5 @@ Ying delivered the presentation “The potential uptake and climate impacts of h
 
 <br/><img src="/images/news-10-1.jpg">
 > _Presentation at ICUI & GSCS (Ying ZHANG)_
-
 <br/><img src="/images/news-10-2.jpg">
 > _Presentation at ICUI & GSCS (Justin Hayse Chiwing Tang G. TANG)_
