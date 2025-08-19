@@ -6,6 +6,12 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+**<font color=Blue>[Paper]</font> [A V2G Paper Published in International Journal of Sustainable Transportation](news-11.md)**
+
+*Posted on 19 August 2025*
+
+Our research group is pleased to announce the research paper “Consumers' attitudes toward benefits and drawbacks of vehicle-to-grid technology: An agent-based model” has been published in the International Journal of Sustainable Transportation ... [Read more](news-11.md)
+
 **<font color=Blue>[Conference]</font> [Conference Presentation at ICUI & GSCS 2025](news-10.md)**
 
 *Posted on 17 August 2025*
