@@ -1,7 +1,7 @@
 ---
 title: "A V2G Paper Published in International Journal of Sustainable Transportation"
 excerpt: 
-collection: Publication
+collection: Paper
 ---
 > _Posted on 19 August 2025 by Songzi ZHOU_
 
