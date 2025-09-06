@@ -6,6 +6,12 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+**<font color=Blue>[Report]</font> [The SelfSim Technical Report is Now Available Online](news-12.md)**
+
+*Posted on 6 September 2025*
+
+Our SelfSim research group is pleased to announce the release of the technical report “SelfSim: An Agent-based Integrated Framework for Simulating the Impacts of Sustainable Technologies, Infrastructures and Policies in Smart Cities”... [Read more](news-12.md)
+
 **<font color=Blue>[Paper]</font> [A V2G Paper Published in International Journal of Sustainable Transportation](news-11.md)**
 
 *Posted on 19 August 2025*
