@@ -6,6 +6,12 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+**<font color=Blue>[Talk]</font> [Research Group Presents at “Smart City and Geospatial Technology in Hong Kong” Feature Talk](news-13.md)**
+
+*Posted on 28 October 2025*
+
+Dr. Chengxiang Zhuge was invited to speak at the “Smart City and Geospatial Technology in Hong Kong” feature talk, co-organized by the Development Bureau’s Geospatial Lab and PolyU LSGI... [Read more](news-13.md)
+
 **<font color=Blue>[Report]</font> [The SelfSim Technical Report is Now Available Online](news-12.md)**
 
 *Posted on 6 September 2025*
