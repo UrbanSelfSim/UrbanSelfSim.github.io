@@ -12,7 +12,7 @@ Dr. Chengxiang Zhuge was invited to speak at the “Smart City and Geospatial Te
 
 PhD student Ying Zhang introduced the SelfSim platform, outlining its system architecture, core algorithms, and data sources to demonstrate how agent-based modeling can support urban sustainability research.
 
-<br/><img src="/images/news-13-2.png">
+<br/><img src="/images/news-13-2.jpg">
 > _Ying Zhang presenting ABM at Geospatial Lab_
 
 She presented Hong Kong as a case study, demonstrating how SelfSim can model solar PV adoption under different policy scenarios. This research is based on a master dissertation by Jason under the supervision of Dr. Zhuge.
