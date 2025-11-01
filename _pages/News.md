@@ -6,6 +6,18 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+**<font color=Blue>[Paper]</font> [A Ride-Hailing Paper Published in Transport Policy](news-15.md)**
+
+*Posted on 1 November 2025*
+
+Our research group is pleased to announce that the research paper “A spatial agent-based approach to simulating the ride-hailing system and its environmental impacts” has been published in Transport Policy in October 2025!... [Read more](news-15.md)
+
+**<font color=Blue>[Paper]</font> [A Hydrogen Fuel Cell Vehicle Paper Published in Transportation](news-14.md)**
+
+*Posted on 1 November 2025*
+
+Our research group is pleased to announce that the research paper “Market potential of hydrogen fuel cell vehicles in Beijing: a spatial agent-based model approach” has been published in Transportation in October 2025!... [Read more](news-14.md)
+
 **<font color=Blue>[Talk]</font> [Research Group Presents at “Smart City and Geospatial Technology in Hong Kong” Feature Talk](news-13.md)**
 
 *Posted on 28 October 2025*
