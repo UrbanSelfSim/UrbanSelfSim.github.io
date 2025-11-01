@@ -1,25 +1,31 @@
 ---
-title: "A MaaS Paper Published in Transportation Research Part A: Policy and Practice"
+title: "A Ride-Hailing Paper Published in Transport Policy "
 excerpt: 
 collection: paper
 ---
-> _Posted on 1 April 2025 by Songzi ZHOU_
+> _Posted on 1 November 2025 by Songzi ZHOU_
 
-Our SelfSim research group is pleased to announce the research paper “Exploring the potential adoption of Mobility-as-a-Service in Beijing: A spatial agent-based model” has been published in Transportation Research Part A: Policy and Practice in April 2025! This study developed a spatial agent-based model to simulate the adoption and subscription of Mobility-as-a-Service (MaaS) in Beijing. The model included four MaaS plans, including pay-as-you-go, monthly, season, and yearly subscriptions. Several key findings include:
-1. Approximately 79.6% of respondents expressed interest in MaaS, despite 39.1% being unfamiliar with the concept.
-2. Monthly subscriptions and pay-as-you-go plans were the most popular, while season and yearly plans received fewer subscriptions.
-3. Season subscribers were predominantly located in the inner and outer suburbs.
-4. High-intensity MaaS-related advertising significantly influenced adoption initially but had limited long-term impact.
+Our research group is pleased to announce that the research paper “A spatial agent-based approach to simulating the ride-hailing system and its environmental impacts” has been published in Transport Policy in October 2025! Please click [here](https://www.sciencedirect.com/science/article/pii/S0967070X25003919) to read the full paper.
 
-This research provides valuable insights for MaaS companies, transport planners, policymakers, and other stakeholders involved in shaping the future of shared mobility.
+This study developed a spatial agent-based ride-hailing diffusion model with integrated supply–demand dynamics to simulate the interactions among service providers, drivers, and users in Shenzhen, China, from 2023 to 2038 under various future scenarios, and to assess the corresponding environmental impacts.
 
-<img src="/images/news-5-1.jpg" alt="Spatial distribution" width="600"/>
+Key findings include:
+- Assuming the market continues to evolve as in the past from 2023 to 2038, the existing market is projected to experience a 36% increase in annual ride-hailing usage, a 24.63% decrease in the average ride-hailing price, and a 73.16% increase in drivers’ compensation.
+- Price and compensation affect the ride-hailing system in the early stages and further its carbon emission reduction potential. 
+- High commission rates can deter both drivers and consumers, reducing the effectiveness of ride-hailing in cutting carbon emissions.
+- Carbon emissions reduced by replacing different transport modes by ride-hailing vary.
 
-> _Simulation results: Spatial distribution of MaaS users and subscribers in Beijing_
+This research provides valuable insights for urban policymakers to intervene in ride-hailing systems.
 
-<img src="/images/news-5-2.jpg" alt="MaaS pricing scenario" width="600"/>
+<img src="/images/news-15-1.png" alt="Spatial distribution" width="600"/>
 
-> _Simulation results: MaaS pricing scenario (i.e., only one MaaS plan is provided)_
+> _Conceptual Framework for Analyzing the Impact of Ride-Hailing on Travel Behavior and Environment_
 
+<img src="/images/news-15-2.png" alt="MaaS pricing scenario" width="600"/>
 
-The full paper is available at [link](https://doi.org/10.1016/j.tra.2025.104430).
+> _Spatial distribution of four types of consumers in 2023 in the baseline Shenzhen scenario_
+
+<img src="/images/news-15-3.png" alt="MaaS pricing scenario" width="600"/>
+
+> _Carbon emission reduction under different transport modes in the Transport Scenarios_
+
