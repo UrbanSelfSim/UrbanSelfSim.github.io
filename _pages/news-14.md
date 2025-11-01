@@ -1,25 +1,26 @@
 ---
-title: "A MaaS Paper Published in Transportation Research Part A: Policy and Practice"
+title: "A Hydrogen Fuel Cell Vehicle Paper Published in Transportation"
 excerpt: 
 collection: paper
 ---
-> _Posted on 1 April 2025 by Songzi ZHOU_
+> _Posted on 1 November 2025 by Songzi ZHOU_
 
-Our SelfSim research group is pleased to announce the research paper “Exploring the potential adoption of Mobility-as-a-Service in Beijing: A spatial agent-based model” has been published in Transportation Research Part A: Policy and Practice in April 2025! This study developed a spatial agent-based model to simulate the adoption and subscription of Mobility-as-a-Service (MaaS) in Beijing. The model included four MaaS plans, including pay-as-you-go, monthly, season, and yearly subscriptions. Several key findings include:
-1. Approximately 79.6% of respondents expressed interest in MaaS, despite 39.1% being unfamiliar with the concept.
-2. Monthly subscriptions and pay-as-you-go plans were the most popular, while season and yearly plans received fewer subscriptions.
-3. Season subscribers were predominantly located in the inner and outer suburbs.
-4. High-intensity MaaS-related advertising significantly influenced adoption initially but had limited long-term impact.
+Our research group is pleased to announce that the research paper “Market potential of hydrogen fuel cell vehicles in Beijing: a spatial agent-based model approach” has been published in Transportation in October 2025! Please click [here](https://link.springer.com/article/10.1007/s11116-025-10683-w) to read the full paper.
 
-This research provides valuable insights for MaaS companies, transport planners, policymakers, and other stakeholders involved in shaping the future of shared mobility.
+This study developed a spatial agent-based model calibrated with survey data from 1,065 respondents in Beijing to investigate the market evolution of Hydrogen Fuel Cell Vehicles (HFCVs) under different policy and market scenarios.
 
-<img src="/images/news-5-1.jpg" alt="Spatial distribution" width="600"/>
+Key findings include:
+- Under current conditions, both HFCV adoption and hydrogen station deployment remain limited, despite increases of 37.5% in applicants and 15.63% in market share. 
+- Consumer perceptions regarding cost, social influence, and environmental benefits play a greater role in promoting HFCV uptake than infrastructure availability. 
+- Subsidies for HFCV purchases are more impactful than technological learning rates, significantly accelerating market entry. 
+- The diffusion of HFCVs substantially affects the market performance of battery electric vehicles.
 
-> _Simulation results: Spatial distribution of MaaS users and subscribers in Beijing_
+This research provides valuable insights for breaking the diffusion dilemma of the HFCV market.
 
-<img src="/images/news-5-2.jpg" alt="MaaS pricing scenario" width="600"/>
+<img src="/images/news-14-1.png" alt="Spatial distribution" width="600"/>
 
-> _Simulation results: MaaS pricing scenario (i.e., only one MaaS plan is provided)_
+> _The Framework of Agent-based HFCV Diffusion Model_
 
+<img src="/images/news-14-2.png" alt="MaaS pricing scenario" width="600"/>
 
-The full paper is available at [link](https://doi.org/10.1016/j.tra.2025.104430).
+> _Results of Baseline Scenario about the Vehicle Market and Refueling/Charging Stations in Beijing_
