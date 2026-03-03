@@ -3,7 +3,7 @@ title: "Assessing the dynamic impacts of remote work in New York city"
 excerpt: 
 collection: paper
 ---
-> _Posted on 2 March 2026 by Chen Ding
+> Posted on 2 March 2026 by Chen Ding
 
 Our research group is pleased to announce the research paper “Assessing the dynamic impacts of remote work in New York city” has been published in the Transportation Research Part D: Transport and Environment in Jan 2026! Please click [here](https://www.sciencedirect.com/science/article/pii/S1361920926000532) to read the full paper.
 
