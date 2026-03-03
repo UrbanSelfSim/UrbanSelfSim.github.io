@@ -6,6 +6,12 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+**<font color=Blue>[Paper]</font> [A Remote Work Paper Published in Transportation Research Part D: Transport and Environment](news-16.md)**
+
+*Posted on 2 March 2026*
+
+Our research group is pleased to announce the research paper “Assessing the dynamic impacts of remote work in New York city” has been published in the Transportation Research Part D: Transport and Environment in Jan 2026!... [Read more](news-16.md)
+
 **<font color=Blue>[Paper]</font> [A Ride-Hailing Paper Published in Transport Policy](news-15.md)**
 
 *Posted on 1 November 2025*
