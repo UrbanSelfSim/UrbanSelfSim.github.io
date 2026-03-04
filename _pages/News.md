@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-**<font color=Blue>[Paper]</font> [A Ride-Hailing Paper Published in Transport Policy](news-17.md)**
+**<font color=Blue>[Paper]</font> [A Hydrogen Vehicle Paper Published in Transportation Research Part D: Transport and Environment](news-17.md)**
 
 *Posted on 4 March 2026*
 
