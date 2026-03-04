@@ -19,5 +19,10 @@ Key findings include:
 - Heterogeneity reveals adopter profiles—but not guaranteed carbon gains: Adding demographic heterogeneity boosts HFCV adoption and identifies adopter “profiles” (e.g., older, wealthier, and concentrated in child-free / retiree / multi-license households), yet higher uptake does not automatically translate into the lowest emissions due to system-level rebounds and multi-technology competition.
 - Policy timing matters most: Only coordinated policies—purchase subsidies synchronized with HRS rollout—create sustained shifts toward HFCVs and deliver more consistent emission reductions; HRS rollout alone has limited effect due to scaling delays and weak early-stage observability.
 
+<img src="/images/news-17-2.png" alt="Baseline Scenario" width="600"/>
 
+> _Baseline Scenario: Spatial-Temporal Evolution of Vehicle Adoption and Station Deployment (2018–2035)_
 
+<img src="/images/news-17-3.png" alt="Carbon emissions under alternative scenarios for 2025, 2030, and 2035" width="600"/>
+
+> _Carbon emissions under alternative scenarios for 2025, 2030, and 2035_
