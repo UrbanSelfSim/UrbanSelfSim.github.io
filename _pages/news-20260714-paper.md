@@ -9,7 +9,7 @@ Our research group is pleased to share a paper, “Dynamic micro-simulation of d
 
 Domestic electricity consumption is becoming an increasingly important part of urban energy systems, yet most existing household energy models treat cities as static systems. This study develops SelfSim-Energy, which integrates the SelfSim urban microsimulation framework with an empirically derived household electricity consumption model. Applying SelfSim-Energy to Beijing from 2021 to 2030, this study evaluates how demographic change and land-use planning influence long-term residential electricity demand through two policy scenarios.
 
-<img src="/images/news-20260714-paper-1.jpg">
+<img src="/images/news-20260714-paper-1.png">
 > _Integrating an empirically based energy consumption module into SelfSim_
 
 Key findings include:
