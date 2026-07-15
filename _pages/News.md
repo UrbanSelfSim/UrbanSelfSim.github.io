@@ -6,6 +6,18 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+**<font color=Blue>[Conference]</font> [Conference Presentation at City+2026@Mytilene](news-20260714-conference.md)**
+
+*Posted on 14 July 2026*
+
+We are pleased to announce that three PhD researchers, Ying ZHANG, Songzi ZHOU, and Junbei LIU, from the SelfSim Research Group, presented their latest SelfSim research at City+2026@Mytilene... [Read more](news-20260714-conference.md)
+
+**<font color=Blue>[Paper]</font> [A SelfSim-Energy Paper Published in Computational Urban Science](news-20260714-paper.md)**
+
+*Posted on 14 July 2026*
+
+Our research group is pleased to share the paper “Dynamic micro-simulation of domestic electricity consumption: a case of Beijing”, recently published in Computational Urban Science (Vol. 6, Article 42, 2026)... [Read more](news-20260714-paper.md)
+
 **<font color=Blue>[Paper]</font> [A Hydrogen Vehicle Paper Published in Transportation Research Part D: Transport and Environment](news-17.md)**
 
 *Posted on 4 March 2026*
