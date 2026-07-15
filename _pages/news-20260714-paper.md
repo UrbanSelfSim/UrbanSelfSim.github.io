@@ -1,5 +1,5 @@
 ---
-title: "New Publication: Dynamic micro-simulation of domestic electricity consumption"
+title: "A SelfSim-Energy Paper Published in Computational Urban Science"
 excerpt:
 collection: Publication
 ---
