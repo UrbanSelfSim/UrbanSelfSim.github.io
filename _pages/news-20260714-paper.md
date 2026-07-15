@@ -30,3 +30,4 @@ Key findings include:
     <td align="center"><em>(b) Spatial distribution of electricity consumption in 2030</em></td>
   </tr>
 </table>
+> _Spatial distribution of electricity consumptions in 2021 and 2030_
